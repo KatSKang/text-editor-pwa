@@ -28,7 +28,12 @@
   
   Add your text/code to save and edit later.
   
+  ![image](https://user-images.githubusercontent.com/105574653/204119838-b74643e4-982d-4fee-9e95-36f1de2669f5.png)
   
+  ![image](https://user-images.githubusercontent.com/105574653/204119847-2604dda3-9a2a-4d95-977e-e43fb8e35ff5.png)
+  
+  ![image](https://user-images.githubusercontent.com/105574653/204119858-e66b7aff-6dc9-474b-bf7b-2140dcc83bbe.png)
+
   ## Deployment
   
   Deployed Heroku application: https://text-editor-ksk.herokuapp.com/
